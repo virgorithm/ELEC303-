@@ -8,6 +8,6 @@
 [UK ACCIDENTS](https://github.com/virgorithm/ELEC303-/blob/main/Activity2.ipynb)
 
 ### MIDTERMS EXAM 
-[CHICAGO CRIMES 2001 - PRESENT](https://github.com/virgorithm/ELEC303-/blob/main/Midterms.ipynb)
+[CHICAGO CRIMES YEAR 2024 and 2025](https://github.com/virgorithm/ELEC303-/blob/main/Midterms.ipynb)
 
 
