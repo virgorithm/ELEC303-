@@ -1,7 +1,7 @@
 
 # ELEC303 ACTIVITIES
 
-## Project 3
+## Project 1
 [PALMER PENGUINS](https://github.com/virgorithm/ELEC303-/blob/main/Activity1.ipynb)
 
 ### Project 2
